@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 
 
-Version 1.0
+Version 2.0
 
 
 
